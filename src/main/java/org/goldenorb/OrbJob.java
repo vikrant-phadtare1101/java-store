@@ -33,7 +33,7 @@ public class OrbJob implements OrbConfigurable, Comparable<OrbJob> {
   private Killable deathAndCompleteWatcher;
   private Killable heartbeatWatcher;
   private Long heartbeat1;
-  private Killable jobStillActiveInterface;
+  private Killable jobStillActiveInterface1;
   private int tries1;
   
 /**
