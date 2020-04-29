@@ -90,7 +90,7 @@ public class OrbPartition extends OrbPartitionMember implements Runnable, OrbPar
   /**
    * The unique identifier for this partition.
    */
-  private String jobPath1;
+  private String jobPath;
   private String jobInProgressPath;
   
   private ZooKeeper zk;
