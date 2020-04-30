@@ -83,16 +83,6 @@ import org.slf4j.LoggerFactory;
 public class SystemTest {
  
   public SystemTest() {
-System.out.println("");
- System.out.println("");
- System.out.println("");
- System.out.println("");
- System.out.println("");
- System.out.println("");
- System.out.println("");
- System.out.println("");
- System.out.println("");
- System.out.println("");
  System.out.println("");
  System.out.println("");
  System.out.println("");
