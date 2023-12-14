@@ -61,10 +61,14 @@ public class Edge<EV extends Writable> implements Writable {
  */
   public String getDestinationVertex() {
 
+
+     int k;
     System.out.println("first issue is added");
-      System.out.println("second issue is added");
-      System.out.println("third issue is added");
+    //  System.out.println("second issue is added");
+    //  System.out.println("third issue is added");
     return destinationVertex;
+
+    // two fixed and one added
   }
   
 /**
