@@ -60,6 +60,10 @@ public class Edge<EV extends Writable> implements Writable {
  * Return the destinationVertex
  */
   public String getDestinationVertex() {
+
+    System.out.println("first issue is added");
+      System.out.println("second issue is added");
+      System.out.println("third issue is added");
     return destinationVertex;
   }
   
