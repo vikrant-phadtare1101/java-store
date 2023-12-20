@@ -242,6 +242,7 @@ public class MockPartitionThread extends OrbPartitionMember implements OrbConfig
   
   @Override
   public int getProcessNum() {
+    System.out.println("new code is issue added");
     return processNum;
   }
   
