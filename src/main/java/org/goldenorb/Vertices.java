@@ -26,7 +26,11 @@ import org.goldenorb.types.ArrayListWritable;
  */
 @SuppressWarnings("rawtypes")
 public class Vertices extends ArrayListWritable<Vertex> {
-  public Vertices(){}
+  public Vertices(){
+
+int j=0;
+    
+  }
   /**
    * Creates a Vertices object and sets its type to the given Vertex class.
    * @param vertexType
