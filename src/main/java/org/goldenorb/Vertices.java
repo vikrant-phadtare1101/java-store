@@ -31,10 +31,17 @@ public class Vertices extends ArrayListWritable<Vertex> {
 int j=0;
 
      System.err.println("Error while processing");
-     System.err.println("Error while processing");
-     System.err.println("Error while processing");
-     System.err.println("Error while processing");
-     System.err.println("Error while processing");
+    // System.err.println("Error while processing");
+     //System.err.println("Error while processing");
+     //System.err.println("Error while processing");
+     //System.err.println("Error while processing");
+    System.out.println("Some text");
+    System.out.println("Some text");
+    System.out.println("Some text");
+    System.out.println("Some text");
+     System.out.println("Some text");
+     System.out.println("Some text");
+     System.out.println("Some text");
     
   }
   /**
