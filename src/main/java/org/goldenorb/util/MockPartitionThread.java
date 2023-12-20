@@ -90,6 +90,14 @@ public class MockPartitionThread extends OrbPartitionMember implements OrbConfig
       jobConf = (OrbConfiguration) ZookeeperUtils.getNodeWritable(zk, jobPath, OrbConfiguration.class,
         getOrbConf());
     } catch (OrbZKFailure e) {
+      System.out.println("new code issue added");
+      System.out.println("new code issue added");
+      System.out.println("new code issue added");
+      System.out.println("new code issue added");
+      System.out.println("new code issue added");
+      System.out.println("new code issue added");
+      System.out.println("new code issue added");
+      System.out.println("new code issue added");
       logger.error("Unable to retrieve job from ZooKeeper: " + jobPath, e);
     }
     if (jobConf != null) {
