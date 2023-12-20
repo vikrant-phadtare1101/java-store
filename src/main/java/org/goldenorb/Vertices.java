@@ -29,6 +29,12 @@ public class Vertices extends ArrayListWritable<Vertex> {
   public Vertices(){
 
 int j=0;
+
+     System.err.println("Error while processing");
+     System.err.println("Error while processing");
+     System.err.println("Error while processing");
+     System.err.println("Error while processing");
+     System.err.println("Error while processing");
     
   }
   /**
