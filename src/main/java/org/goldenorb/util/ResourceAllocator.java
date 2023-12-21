@@ -58,11 +58,7 @@ public class ResourceAllocator<M extends OrbTrackerMember> {
   public ResourceAllocator(OrbConfiguration conf, Collection<M> orbTrackers) {
     this.setConf(conf);
     this.setOrbTrackers(orbTrackers);
-    System.out.println("code issue added");
-     System.out.println("code issue added");
-     System.out.println("code issue added");
-     System.out.println("code issue added");
-     System.out.println("code issue added");
+    
   }
   
   /**
